@@ -1497,7 +1497,7 @@ INSERT INTO `ratings` (`Show`, `Date`, `Time`, `Household`, `Total`, `AHousehold
 ('Attack on Titan', '2014-08-30', '5:00', 0.60, 705, NULL, 447),
 ('Attack on Titan', '2014-08-30', '5:30', 0.50, 616, NULL, 366),
 ('Attack on Titan', '2014-09-06', '11:30', NULL, 1378, 0.60, 746),
-('Bleach', '2014-09-06', '12:00', NULL, 115, 0.60, 713),
+('Bleach', '2014-09-06', '12:00', NULL, 1155, 0.60, 713),
 ('Space Dandy', '2014-09-06', '12:30', NULL, 919, 0.40, 556),
 ('Naruto Shippuden', '2014-09-06', '1:00', NULL, 900, 0.50, 579),
 ('One Piece', '2014-09-06', '1:30', NULL, 760, 0.40, 504),
