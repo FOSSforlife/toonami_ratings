@@ -2266,7 +2266,7 @@ INSERT INTO `ratings` (`Show`, `Date`, `Time`, `Household`, `Total`, `AHousehold
 ('Samurai Champloo', '2016-04-23', '1:30', NULL, 896, 0.41, 525),
 ('Naruto Shippuden', '2016-04-23', '2:00', NULL, 852, 0.39, 500),
 ('One Piece', '2016-04-23', '2:30', NULL, 756, 0.35, 441),
-('Parasyte the Maxim', '2016-04-23', '3:00', NULL, 6593, 0.31, 391),
+('Parasyte the Maxim', '2016-04-23', '3:00', NULL, 659, 0.31, 391),
 ('Dragon Ball Z Kai', '2016-04-30', '12:00', NULL, 1416, 0.64, 815),
 ('Dimension W', '2016-04-30', '12:30', NULL, 1203, 0.54, 691),
 ('Hunter x Hunter', '2016-04-30', '1:00', NULL, 1056, 0.47, 591),
